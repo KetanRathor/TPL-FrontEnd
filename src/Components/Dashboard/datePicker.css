@@ -1,0 +1,60 @@
+.rs-picker-input-group {
+    height: 8vh;
+   
+}
+
+
+
+.rs-calendar-table-cell-content {
+    border-radius: 50px;
+    /* background-color: #1adbd8; */
+}
+
+
+.rs-calendar-table-cell-is-today{
+    /* background-color: #1adbd8; */
+    border-radius: 50px;
+}
+.rs-calendar-table-cell-day-today {
+    background-color: #1adbd8;
+}
+
+
+
+
+
+.rs-calendar-table-cell-un-same-month{
+    background-color: #edf2f5;
+    border-radius: 5px;
+}
+
+.rs-calendar-header-title-date {
+    color: rgb(11, 10, 10) !important; 
+    font-weight: bold !important; 
+  }
+
+
+  /* .rs-calendar-table-cell-selected{
+    background-color: #1adbd8;
+  } */
+
+/* .rs-calendar-table-cell-day{
+background-color:#fff;
+
+} */
+
+/* .rs-calendar-table-cell-is-today{
+    border-radius: 50px;
+    
+} */
+
+/* .rs-calendar-table-cell-day {
+    background-color: white !important; 
+    color: black !important; 
+  } */
+
+/* .rs-picker-toggle-placeholder {
+    font-size: "12px";
+    color: black; 
+  } */
+
